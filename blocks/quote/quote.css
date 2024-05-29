@@ -28,4 +28,7 @@
     width: 30px;
     background-color: darkgray;
 }
+.block.quote strong {
+    color: green;
+}
 
